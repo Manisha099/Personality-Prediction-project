@@ -1,7 +1,7 @@
 Personality Prediction System 
 
 
-This project is a machine learning-based personality prediction system that uses psychological data sourced from Kaggle to identify personality traits.
+A machine learning-based system that predicts user personality traits using psychological and behavioral data from Kaggle. This project combines backend model training with a React-based frontend to demonstrate real-world AI integration.
 
 Project Structure 
 
